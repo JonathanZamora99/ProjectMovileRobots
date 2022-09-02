@@ -1,0 +1,2 @@
+IRB120-ABB/irb120_description:IRB120-ABB/irb120_gazebo:IRB120-ABB/irb120_master:IRB120-ABB/irb120_vrep:IRB120-ABB/moveit_configuration/irb120_2fgripper_moveit:IRB120-ABB/moveit_configuration/irb120_3fgripper_moveit:IRB120-ABB/moveit_configuration/irb120_endeffector_moveit:IRB120-ABB/moveit_configuration/irb120_moveit
+-DCATKIN_DEVEL_PREFIX=/home/user/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/user/catkin_ws/install -G Unix Makefiles

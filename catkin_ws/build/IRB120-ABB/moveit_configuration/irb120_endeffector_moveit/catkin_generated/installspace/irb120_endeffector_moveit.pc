@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/install
+
+Name: irb120_endeffector_moveit
+Description: Description of irb120_endeffector_moveit
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

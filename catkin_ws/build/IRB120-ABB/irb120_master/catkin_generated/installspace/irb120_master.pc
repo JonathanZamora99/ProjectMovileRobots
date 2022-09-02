@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/install
+
+Name: irb120_master
+Description: Description of irb120_master
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
